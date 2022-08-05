@@ -1,5 +1,5 @@
 #include <stdio.h>
-long factorial(int A)
+int factorial(int A)
 {
     int i;
     int f = 1;
